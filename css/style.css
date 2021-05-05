@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1E2D3B;
+}
+header{
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+header img {
+    height: 60px;
+}
+
+.music_records{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.cd-album{
+background-color: #000;
+width: 150px;
+color: #fff;
+padding: 10px;
+
+
+}
+p{
+    padding: 5px 0;
+}
+
+.cd-album img {
+   width: 100%;
+   height: 50%;
+   padding-bottom: 5px;
+    
+
+}
