@@ -15,6 +15,7 @@ header{
 }
 header img {
     height: 60px;
+    padding-left: 20px;
 }
 
 .music_records{
@@ -29,12 +30,17 @@ header img {
 background-color: #000;
 width: 150px;
 color: #fff;
-padding: 10px;
-
+padding: 5px;
+border-radius: 10px;
 
 }
 p{
     padding: 5px 0;
+    color: #666;
+}
+span{
+    color: #666;
+
 }
 
 .cd-album img {
