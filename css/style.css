@@ -31,7 +31,8 @@ background-color: #000;
 width: 150px;
 color: #fff;
 padding: 5px;
-border-radius: 10px;
+text-align: center;
+
 
 }
 p{
@@ -47,6 +48,6 @@ span{
    width: 100%;
    height: 50%;
    padding-bottom: 5px;
-    
+   border-radius: 10px;
 
 }
